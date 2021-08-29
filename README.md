@@ -4,9 +4,9 @@
 - 🌱 Tenho conhecimentos nas linguagens javaScript, typeScript, PHP, Dart, java, C++ C# e SQL.
 - 👯 Linguagens que tenho especialidade são, javaScript , PHP e typeScript.
 - 🤔 Também tenho conhecimentos em back-end, usando node.js, bancos de dados SQL: Mysql, SQLite, NOSQL: MongoDB, Firebase.
-- 💬 Uso Frameworks como React.js, React Native, Angular, Vue.js, FLutter, Node.js, Láravel e Kotlin.
+- 💬 Uso Frameworks como React.js, React Native, Angular, Vue.js, FLutter, Node.js, Laravel e Kotlin.
 - 📫 Frameworks em que tenho maior habilidade são React.js, React Native, Flutter e Node.js.
-- 🚀 Estudando no momento C# com Unit, Kotlin, FLutter, Láravel e UI/UX.
+- 🚀 Estudando no momento C# com Unit, Kotlin, FLutter, Laravel e UI/UX.
 - ⚡ Já sou formado em Análise e Desenvolvimento de Sistemas, cursando agora Pós graduação em Desenvolvimento Mobile.
 
 
