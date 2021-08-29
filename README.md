@@ -1,7 +1,7 @@
 ### Muito prazer me chamo Max - Desenvolvedor Mobile e Web UI/UX 👋
 
 - 🔭 Trabalho hoje com front-end mobile e web UI/UX.
-- 🌱 Tenho conhecimentos nas linguagens javaScript, typeScript, PHP, Dart, java, C++ e C#, SQL.
+- 🌱 Tenho conhecimentos nas linguagens javaScript, typeScript, PHP, Dart, java, C++ C# e SQL.
 - 👯 Linguagens que tenho especialidade são, javaScript , PHP e typeScript.
 - 🤔 Também tenho conhecimentos em back-end, usando node.js, bancos de dados SQL: Mysql, SQLite, NOSQL: MongoDB, Firebase.
 - 💬 Uso Frameworks como React.js, React Native, Angular, Vue.js, FLutter, Node.js, Láravel e Kotlin.
@@ -27,7 +27,6 @@
   <img align="center" alt="Max-NODE" height="30" width="50" src="https://cdn.worldvectorlogo.com/logos/laravel-wordmark-1.svg">
   <img align="center" alt="Max-NODE" height="30" width="50" src="https://cdn.worldvectorlogo.com/logos/php.svg">
   <img align="center" alt="Max-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Max-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   
