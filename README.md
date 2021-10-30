@@ -1,6 +1,6 @@
-### Muito prazer me chamo Max - Desenvolvedor Mobile e Web UI/UX 👋
+### Muito prazer me chamo Max - Desenvolvedor Mobile e Web UX/UI 👋
 
-- 🔭 Trabalho hoje com front-end mobile e web UI/UX.
+- 🔭 Trabalho hoje com front-end mobile e web UX/UI.
 - 🌱 Tenho conhecimentos nas linguagens javaScript, typeScript, PHP, Dart, java, C++ C# e SQL.
 - 👯 Linguagens que tenho especialidade são, javaScript , PHP e typeScript.
 - 🤔 Também tenho conhecimentos em back-end, usando node.js, bancos de dados SQL: Mysql, SQLite, NOSQL: MongoDB, Firebase.
